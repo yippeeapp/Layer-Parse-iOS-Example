@@ -25,11 +25,10 @@
 
 @implementation AppDelegate
 
-#pragma mark TODO: Before first launch, update LayerAppIDString, ParseAppIDString or ParseClientKeyString values
-#warning "TODO:If LayerAppIDString, ParseAppIDString or ParseClientKeyString are nil, this app will crash"
-static NSString *const LayerAppIDString = nil;
-static NSString *const ParseAppIDString = nil;
-static NSString *const ParseClientKeyString = nil;
+#pragma mark TODO: Before first launch, update LayerAppIDString, ParseAppIDString or ParseClientKeyString values                        
+static NSString *const LayerAppIDString = @"5b1327ba-0a19-11e5-a885-84d0f7020f8d";
+static NSString *const ParseAppIDString = @"6OQIIYI3PQdn9haDvYwJnm8QYl1lwyOPO7Wo8uK1";
+static NSString *const ParseClientKeyString = @"XvcEMbt0DdBG18jYEgrVF43XApmQGY2zEI6NgRLU";
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {

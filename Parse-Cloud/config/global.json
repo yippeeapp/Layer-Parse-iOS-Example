@@ -1,0 +1,14 @@
+{
+  "global": {
+    "parseVersion": "1.4.2"
+  },
+  "applications": {
+    "_default": {
+      "link": "layer"
+    },
+    "layer": {
+      "applicationId": "6OQIIYI3PQdn9haDvYwJnm8QYl1lwyOPO7Wo8uK1",
+      "masterKey": "IoH4rw6WLKOeSFVTCzD2nrMw8UcgwXsvtghvKK1a"
+    }
+  }
+}
